@@ -1,0 +1,174 @@
+Here's a structured list of the inputs you've provided, each categorized under their respective headers:
+
+### E-Commerce
+- All (21)
+- Collections (9)
+- Featured Products (4)
+- Hero (2)
+- Pop Up Modals (1)
+- Promotional CTA (5)
+- Store Products (0)
+
+### Buttons
+- All (11)
+- Non Standard (1)
+- Squared (10)
+
+### Navigation
+- All (25)
+- + Dropdown (6)
+- + Top Bar (6)
+- Standard (6)
+- Top Bar + Dropdown (7)
+
+### Hero Section
+- All (83)
+- Centered (12)
+- Grid (0)
+- Landing + Services (29)
+- Left Aligned (28)
+- Right Aligned (14)
+
+### Services
+- All (176)
+- 3 Card (45)
+- 4 Card (56)
+- 5 Card (5)
+- 6 Card (34)
+- 8 Card (5)
+- Combo (5)
+- Side By Side (26)
+
+### Content Flair
+- All (35)
+- Button Boxes (4)
+- Content Groups (7)
+- Lists (17)
+- Quotes (2)
+- Stats (3)
+- Toppers (2)
+
+### Side By Side
+- All (303)
+- Non Standard (11)
+- Reverse (86)
+- Reverse Pair (64)
+- Reverse Triplet (58)
+- Standard (84)
+
+### Gallery
+- All (38)
+- 5 Images (1)
+- 6 Images (9)
+- 8 Images (5)
+- Full Width (5)
+- Mosaic (10)
+- Multi Gallery (7)
+- Simple (1)
+
+### Meet Our Team
+- All (65)
+- 2 Card (3)
+- 3 Card (20)
+- 4 Card (25)
+- 5 Card (3)
+- 6 Card (8)
+- 7 Card (2)
+- 8 Card (3)
+- Combo (1)
+
+### Steps
+- All (21)
+- 3 Steps (5)
+- 4 Steps (15)
+- 5 Steps (1)
+
+### Stats
+- All (46)
+- 3 Stats (9)
+- 4 Stats (30)
+- Combos (4)
+- Timeline (3)
+
+### Pricing
+- All (47)
+- 2 Card (5)
+- 3 Card (16)
+- Menu's (17)
+- w/ Toggles (9)
+
+### FAQ
+- All (40)
+- Multi FAQ's (1)
+- Side By Side (27)
+- Standard (12)
+
+### Why Choose Us
+- All (54)
+- 3 Card (7)
+- 4 Card (11)
+- 6 Card (4)
+- Side By Side (32)
+
+### Quotes
+- All (4)
+- Single Quotes (4)
+
+### MISC
+- All (18)
+- Content (3)
+- Locations (2)
+- Logos (3)
+- Maps (1)
+- Tables (3)
+- Video (6)
+
+### Reviews
+- All (84)
+- 2 Card (25)
+- 3 Card (22)
+- 4 Card (3)
+- Full Width (3)
+- Single Review (31)
+
+### Forms & Contact
+- All (61)
+- Contact Forms (48)
+- Contact Info (4)
+- Subscribe (9)
+
+### Events
+- All (20)
+- 3 Card (10)
+- 4 Card (4)
+- Side By Side (6)
+
+### Blog
+- All (26)
+- Recent Posts (26)
+
+### Call To Action
+- All (24)
+- Combos (1)
+- Contained (3)
+- Full Width (13)
+- Subscribe Forms (7)
+
+### Footer
+- All (47)
+- 2 Column (2)
+- 3 Column (9)
+- 4 Column (15)
+- 5 Column (6)
+- Combo (3)
+- Simple (12)
+
+### Dark Mode
+- All (2)
+- Standard (2)
+
+### Interior Pages
+- All (38)
+- About Page
+
+This list categorizes various components and features that might be found on a website, including e-commerce elements, design layouts, and functional sections, providing a comprehensive overview for planning or inventory purposes.

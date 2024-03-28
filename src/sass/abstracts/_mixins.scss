@@ -1,0 +1,92 @@
+
+///////////////////////////
+// CLAMP
+///////////////////////////
+// * This mixin generates fallbacks for browsers that do not support clamp,
+// * the scaler to rem is used to ensure users can increase font size in browser by converting vw to rem
+
+@mixin clamp($property, $min-size, $scaler, $scalerToRem, $max-size) {
+  #{$property}: $max-size;
+  #{$property}: #{"min(max(#{$min-size}, #{$scaler} + #{$scalerToRem}, #{$max-size}))"};
+  #{$property}: clamp($min-size, $scaler + $scalerToRem, $max-size);
+}
+
+
+
+// ANIMIATIONS
+@mixin base-animation() {
+  transition: all 0.2s ease-out;
+}
+
+// SECTION SETUP
+@mixin base-section-setup() {
+  padding-top: 10vw;
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+// HR BASE STYLE
+@mixin base-hr-style($color, $size) {
+  width: 60%;
+  margin: 1rem auto;
+  border: solid $size $color;
+}
+
+// TYPOGRAPHY
+
+@mixin titleFontSize($size) {
+  @if $size == half {
+    @include clamp("font-size", 3rem, 2.5vw, 1rem, 20rem);
+  
+  }
+  @if $size == full {
+    @include clamp("font-size", 3rem, 3vw, 1rem, 20rem);
+
+   
+  }
+}
+
+@mixin footerTitleFontSize($size) {
+  @if $size == phone {
+    @include clamp("font-size", 3rem, 1.5vw, 1rem, 6rem);
+
+
+  }
+  @if $size == tablet {
+    @include clamp("font-size", 3rem, 2vw, 1rem, 10rem);
+
+  }
+}
+
+
+@mixin paragraphFontSize($size) {
+  @if $size == phone {
+    @include clamp("font-size", 1rem, .5vw, 1rem, 8rem);
+
+
+  }
+  @if $size == tablet {
+    @include clamp("font-size", 1rem, .75vw, 1rem, 8rem);
+
+  
+  }
+}
+
+@mixin navLinkFontSize() {
+    @include clamp("font-size", 2rem, 1vw, .1rem, 4rem);
+
+}
+
+@mixin staffCardName() {
+    @include clamp("font-size", 1rem, .75vw, 1rem, 5rem);
+}
+
+///////////////////////////
+// CENTER POSITIONING ABS
+///////////////////////////
+@mixin absoluteCenter() {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
