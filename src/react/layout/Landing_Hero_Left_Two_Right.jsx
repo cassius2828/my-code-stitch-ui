@@ -44,14 +44,14 @@ export const Two_Right_Images = ({ num, img, link = "/" }) => {
 export const Hero_Left_Image = ({ num, img, link = "/" }) => {
   return (
     <li className={`cs-item cs-item${num}`}>
-      <div class="cs-content">
-        <h1 class="cs-title">Stitch Smart Watches Collection</h1>
-        <p class="cs-text">
+      <div className="cs-content">
+        <h1 className="cs-title">Stitch Smart Watches Collection</h1>
+        <p className="cs-text">
           Explore our exquisite watch collection, where timepieces become
           timeless treasures. From classic elegance to modern innovation, our
           curated selection offers something for every style and occasion.
         </p>
-        <a href={link} class="cs-button-solid">
+        <a href={link} className="cs-button-solid">
           Shop Now
         </a>
       </div>
